@@ -182,38 +182,12 @@ npm install -g netlify-cli
 netlify deploy --prod
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Google Gemini AI** - For powerful multimodal AI capabilities
-- **Lucide Icons** - For beautiful, consistent iconography
-- **React Team** - For the amazing React framework
-- **Vite Team** - For blazing-fast build tooling
-
-## 📞 Support
-
-For questions, issues, or feature requests:
-- 📧 Email: support@triageai.example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/triageai/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/triageai/discussions)
-
----
-
 <div align="center">
   <strong>Built with ❤️ for emergency responders worldwide</strong>
   <br>
   <sub>Saving lives through AI-powered triage intelligence</sub>
 </div>
+
+ppt is provided in the repo
+
+[Click here to watch demo](https://tri-age.vercel.app/)
