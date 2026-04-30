@@ -188,6 +188,7 @@ netlify deploy --prod
   <sub>Saving lives through AI-powered triage intelligence</sub>
 </div>
 
-ppt :[Click here for ppt](Presentation.pdf)
+## 📊 Presentation  
+[View Presentation (PDF)](https://github.com/vamsikagh/TriAgeAi/blob/main/Presentation.pdf)
 
 [Click here to watch demo](https://tri-age.vercel.app/)
