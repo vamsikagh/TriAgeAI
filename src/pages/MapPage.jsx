@@ -198,7 +198,16 @@ export default function MapPage() {
               </div>
             </div>
 
-            <button className="btn btn-outline" style={{ width: '100%', justifyContent: 'center' }}>
+            <button 
+              className="btn btn-outline" 
+              style={{ width: '100%', justifyContent: 'center' }}
+              onClick={() => {
+                // Open Google Maps with directions
+                const destination = `${h.lat},${h.lng}`;
+                const url = `https://www.google.com/maps/dir/?api=1&destination=${destination}&travelmode=driving`;
+                window.open(url, '_blank');
+              }}
+            >
               <Navigation size={14} /> Get Directions
             </button>
           </div>
