@@ -7,6 +7,12 @@
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-AI-4285F4?logo=google)](https://ai.google.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+## DEMO:
+[Click here to watch demo](https://tri-age.vercel.app/)
+
+## 📊 Presentation  
+[View Presentation (PDF)](https://github.com/vamsikagh/TriAgeAi/blob/main/Presentation.pdf)
+
 ## ✨ Features
 
 ### 🤖 AI-Powered Triage
